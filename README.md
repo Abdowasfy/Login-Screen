@@ -1,7 +1,6 @@
 # lab2
 
-A new Flutter project.
-
+Login Screen App
 ## Getting Started
 
 This project is a starting point for a Flutter application.
